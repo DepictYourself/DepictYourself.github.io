@@ -205,14 +205,19 @@
             margin-right: 2rem;
         }
 
-        &--linkedin {
-            background-image: url('./assets/linkedIn.svg?fill=%23fafafa');
-            
+        img {
+            width: 4rem;
+            height: 4rem;
         }
 
-        &--github {
-            background-image: url('./assets/githubv2.svg?fill=%23fafafa');
-        }
+        // &--linkedin {
+        //     background-image: url('./assets/linkedIn.svg?fill=%23fafafa');
+            
+        // }
+
+        // &--github {
+        //     background-image: url('./assets/githubv2.svg?fill=%23fafafa');
+        // }
     }
 
     &__text {
